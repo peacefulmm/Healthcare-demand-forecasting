@@ -1,0 +1,32 @@
+Medical Conditions Breakdown by Season (data downloaded on 3/29/2026)
+SEASON,MEDICAL CONDITION,CHILDREN-PERCENT(%),ADULTS_18_49_PERCENT,FEMALES (15-44 YR)-PERCENT(%),ADULTS_50_64_PERCENT,ADULTS_65_PLUS_PERCENT,ADULTS_65_74_PERCENT,ADULTS_75_84_PERCENT,ADULTS_85_PLUS_PERCENT,ADULTS_OVERALL_PERCENT
+2025-26,Asthma,29.6,29.2,N/A,28.4,15.9,16.8,15.8,14.8,21.0
+2025-26,Cardiovascular disease,8.1,14.0,N/A,47.1,67.5,59.9,68.1,76.3,53.8
+2025-26,Chronic lung disease,6.9,10.8,N/A,45.3,43.2,49.6,43.7,34.0,37.8
+2025-26,Immune suppression,6.2,11.5,N/A,20.2,14.6,15.0,17.1,10.5,15.2
+2025-26,Metabolic disease,5.4,23.9,N/A,45.7,50.8,50.4,56.5,43.1,44.9
+2025-26,Neurologic disease,19.7,14.9,N/A,21.9,28.7,21.3,28.4,38.6,24.7
+2025-26,Gastrointestinal/liver disease,0.9,6.0,N/A,8.5,6.6,7.6,7.0,4.5,6.9
+2025-26,Hypertension,1.3,23.4,N/A,64.0,76.3,72.6,77.4,79.8,64.4
+2025-26,Obesity,18.1,38.8,N/A,42.6,30.3,36.8,33.1,17.9,34.5
+2025-26,Pregnancy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2025-26,Renal disease,1.3,5.6,N/A,18.6,28.1,23.3,26.9,36.1,22.0
+2025-26,No known condition,42.4,6.6,N/A,5.8,2.5,2.7,1.9,3.1,4.3
+2025-26,Autoimmune disease,0.4,2.6,N/A,6.1,5.1,4.1,5.2,6.4,4.9
+
+"The Influenza Hospitalization Surveillance Network (FluSurv-NET) data are preliminary and subject to change as more data become available. The denominator for each underlying condition is the total number of patients with non-missing data for that condition."
+"Asthma includes a medical diagnosis of asthma or reactive airway disease."
+"Autoimmune conditions include rheumatologic and inflammatory conditions such as ankylosing spondylitis, polyarteritis nodosum, rheumatoid arthritis, systemic lupus erythematosus, and vasculitis."
+"Cardiovascular disease includes conditions such as coronary artery disease, cardiac valve disorders, arrhythmias, congestive heart failure, and pulmonary hypertension. This category excludes people who have hypertension only."
+"Chronic lung disease excludes asthma, and includes conditions such as chronic obstructive pulmonary disease, bronchiolitis obliterans, cystic fibrosis, interstitial lung disease and obstructive sleep apnea. "
+"Gastrointestinal/liver disease includes conditions such as hepatitis, cirrhosis, Crohn's disease, and ulcerative colitis."
+"Hypertension includes a medical diagnosis of hypertension. "
+"Immune suppression includes conditions such as HIV/AIDS, complement deficiency, immunoglobulin deficiency, leukemia, lymphoma, solid organ malignancy, and individuals taking immunosuppressive medications."
+"Metabolic disease includes conditions such as diabetes mellitus, adrenal disorders, and thyroid dysfunction."
+"Neurologic diseases include conditions such as seizure disorders, cerebral palsy, cognitive dysfunction, multiple sclerosis, and muscular dystrophy."
+"Obesity is assigned if body mass index (BMI) > 30 kg/m2, or if BMI is missing, if a diagnosis of obesity is indicated in a patient's medial chart."
+"Pregnancy percentage is calculated prior to the 2022-2023 season using the number of female cases aged between 15 and 44 years of age as the denominator. Staring with the 2022-2023 season, pregnancy percentage is calculated using the number of female cases aged between 15 and 49 years of age as the denominator."
+"Renal disease includes conditions such as chronic kidney diseases/chronic renal insufficiency, nephrotic syndrome, glomerulonephritis, and end state renal disease. "
+"Other condition includes blood disorders, pediatric conditions not captured by other categories, feeding tube-dependent, trach or vent-dependent, and wheelchair dependent, as well as other conditions not captured by other existing categories. "
+"No known condition indicates that the case did not have any known underlying medical condition indicated in the medical chart at the time of hospitalization."
+"Underlying medical conditions of pregnant women are included when 'Adults' and/or 'Pediatrics' is selected."
